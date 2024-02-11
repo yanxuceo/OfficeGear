@@ -4,8 +4,12 @@ I am thrilled to introduce my latest work - OfficeGear, a smart(not yet😅) sol
 In today's fast-paced work environment, it's easy to neglect our basic health needs - staying hydrated and moving around. That's why I’ve developed OfficeGear, a device that tracks your daily hydration levels and sedentary time, encouraging you to make healthier choices throughout your workday. 💧🏃‍♂️
 
 ### Discover OfficeGear
-![Water Bar Demo](Img/IMG_1230.JPG)
-![Water Bar Demo](Img/IMG_1231.JPG)
+Water intake bar indicator:
+<img src="Img/IMG_1230.JPG" width="80%" height="auto">
+
+Sitting time display:
+<img src="Img/IMG_1231.JPG" width="80%" height="auto">
+
 
 
 With OfficeGear, you can:
