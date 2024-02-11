@@ -17,7 +17,12 @@ Here, we detail the versatile functionality of our button interactions and menu 
 ![System Intrduction](Img/OfficeGear%20Functionality%20Intro.jpg)
 
 
-Checkout the intro video: <br>
+### Checkout the video
 [![Video Title](http://img.youtube.com/vi/P47Cwe5VacM/0.jpg)](https://www.youtube.com/watch?v=P47Cwe5VacM&t=25s "Watch Video")
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
