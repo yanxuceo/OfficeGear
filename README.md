@@ -55,11 +55,13 @@ Deploy your OfficeGear to a [LILYGO T-Display](https://www.lilygo.cc/en-pl/produ
 git clone https://github.com/yanxuceo/OfficeGear.git
 ```
 
-#### 3. Open this New Sketch
+#### 3. Open a New Sketch
+Navigate to the folder where you cloned the repository on your computer. Look for the OfficeGear.ino and launch in Arduino IDE.
+
 <img src="Img/Open%20New%20Sketch.png" width="81%" height="auto">
 
 #### 4. Connect board to computer and select Board in Arduino IDE
-Select board as ESP32 Dev Module, and wait it connects to some serial port.
+After selecting the board(ESP32 Dev Module), wait for the IDE to detect and connect to the ESP32 board through a serial port. 
 
 <img src="Img/Select Board and Connect.png" width="80%" height="auto">
 
@@ -67,7 +69,7 @@ Select board as ESP32 Dev Module, and wait it connects to some serial port.
 <img src="Img/Upload to Board.png" width="80%" height="auto">
 
 #### 6. Done
-Then you will see this display(Five bars on default).
+After the flashing process is complete, the display will show five bars by default.
 
 <img src="Img/Done Flashing.JPG" width="80%" height="auto">
 
