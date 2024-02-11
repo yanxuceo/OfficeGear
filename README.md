@@ -5,9 +5,11 @@ In today's fast-paced work environment, it's easy to neglect our basic health ne
 
 ### Discover OfficeGear
 Water intake bar indicator:
+
 <img src="Img/IMG_1230.JPG" width="80%" height="auto">
 
 Sitting time display:
+
 <img src="Img/IMG_1231.JPG" width="80%" height="auto">
 
 
