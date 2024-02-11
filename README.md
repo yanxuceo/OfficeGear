@@ -32,9 +32,44 @@ Faced with the challenge of having only two buttons on this LILYGO T-Display boa
 ![Menu Navigation Design](Img/OfficeGear%20Functionality%20Intro.jpg)
 
 
+
 ### Checkout the video
 [![Video Title](http://img.youtube.com/vi/P47Cwe5VacM/0.jpg)](https://www.youtube.com/watch?v=P47Cwe5VacM&t=25s "Watch Video")
 
+
+### Download and Installation
+Deploy your OfficeGear to a [LILYGO T-Display](https://www.lilygo.cc/en-pl/products/lilygo®-ttgo-t-display-1-14-inch-lcd-esp32-control-board) ESP32 board.
+
+#### 1. In Arduino IDE, install Preferences and TFT_eSPI library
+[Preferences](https://github.com/vshymanskyy/Preferences): used for ESP32 on-chip Flash write/read.
+
+<img src="Img/Preferences.png" width="80%" height="auto">
+
+
+[TFT_eSPI](https://github.com/Bodmer/TFT_eSPI): used for TFT display.
+
+<img src="Img/TFT_eSPI.png" width="80%" height="auto">
+
+#### 2. Clone this repository
+```
+git clone https://github.com/yanxuceo/OfficeGear.git
+```
+
+#### 3. Open this New Sketch
+<img src="Img/Open%20New%20Sketch.png" width="81%" height="auto">
+
+#### 4. Connect board to computer and select Board in Arduino IDE
+Select board as ESP32 Dev Module, and wait it connects to some serial port.
+
+<img src="Img/Select Board and Connect.png" width="80%" height="auto">
+
+#### 5. Upload code to board
+<img src="Img/Upload to Board.png" width="80%" height="auto">
+
+#### 6. Done
+Then you will see this display(Five bars on default).
+
+<img src="Img/Done Flashing.JPG" width="80%" height="auto">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
