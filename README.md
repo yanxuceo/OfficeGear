@@ -41,7 +41,7 @@ Faced with the challenge of having only two buttons on this LILYGO T-Display boa
 Deploy your OfficeGear to a [LILYGO T-Display](https://www.lilygo.cc/en-pl/products/lilygo®-ttgo-t-display-1-14-inch-lcd-esp32-control-board) ESP32 board.
 
 #### 1. In Arduino IDE, install Preferences and TFT_eSPI library
-[Preferences](https://github.com/vshymanskyy/Preferences): used for ESP32 on-chip Flash write/read.
+[Preferences](https://github.com/vshymanskyy/Preferences): this library is utilized for writing to and reading from the on-chip flash memory of the ESP32. It enables the storage and retrieval of data in this project.
 
 <img src="Img/Preferences.png" width="80%" height="auto">
 
@@ -58,7 +58,7 @@ git clone https://github.com/yanxuceo/OfficeGear.git
 #### 3. Open a New Sketch
 Navigate to the folder where you cloned the repository on your computer. Look for the OfficeGear.ino and launch in Arduino IDE.
 
-<img src="Img/Open%20New%20Sketch.png" width="81%" height="auto">
+<img src="Img/Open%20New%20Sketch.png" width="80%" height="auto">
 
 #### 4. Connect board to computer and select Board in Arduino IDE
 After selecting the board(ESP32 Dev Module), wait for the IDE to detect and connect to the ESP32 board through a serial port. 
