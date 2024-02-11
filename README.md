@@ -28,7 +28,7 @@ This tool is not just about tracking; it's about empowering office workers to st
 
 
 ### User Interaction
-Here, we detail the versatile functionality of our button interactions and menu design, crafted to ensure a seamless and intuitive user experience. <br>
+Faced with the challenge of having only two buttons on this LILYGO T-Display board, a versatile navigation system is crafted, which leverages different menu contexts and button patterns—single click, double click, and long press to ensure a seamless and intuitive user experience. <br>
 ![Menu Navigation Design](Img/OfficeGear%20Functionality%20Intro.jpg)
 
 
